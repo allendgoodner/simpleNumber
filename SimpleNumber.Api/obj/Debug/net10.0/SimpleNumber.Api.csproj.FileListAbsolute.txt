@@ -31,3 +31,4 @@ C:\s\simplenumber\SimpleNumber.Api\obj\Debug\net10.0\refint\SimpleNumber.Api.dll
 C:\s\simplenumber\SimpleNumber.Api\obj\Debug\net10.0\SimpleNumber.Api.pdb
 C:\s\simplenumber\SimpleNumber.Api\obj\Debug\net10.0\SimpleNumber.Api.genruntimeconfig.cache
 C:\s\simplenumber\SimpleNumber.Api\obj\Debug\net10.0\ref\SimpleNumber.Api.dll
+C:\s\simpleNumber\SimpleNumber.Api\obj\Debug\net10.0\SimpleNumber.Api.sourcelink.json

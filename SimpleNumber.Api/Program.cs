@@ -17,4 +17,9 @@ app.MapGet("/random/{max}", (int max) =>
 
 app.MapGet("/", () => "Simple Number API is running!");
 
+app.MapGet("/hello/{name}", (string name) =>
+{
+    return Results.Ok(new { Message = $"Hello, {name}!" });
+});
+
 app.Run();
