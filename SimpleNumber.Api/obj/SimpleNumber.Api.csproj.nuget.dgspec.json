@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\s\\simpleNumber\\SimpleNumber.Api\\SimpleNumber.Api.csproj": {}
+    "C:\\s\\simpleNumber\\SimpleNumber.Api\\SimpleNumber.Api.csproj": {}
   },
   "projects": {
-    "c:\\s\\simpleNumber\\SimpleNumber.Api\\SimpleNumber.Api.csproj": {
+    "C:\\s\\simpleNumber\\SimpleNumber.Api\\SimpleNumber.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\s\\simpleNumber\\SimpleNumber.Api\\SimpleNumber.Api.csproj",
+        "projectUniqueName": "C:\\s\\simpleNumber\\SimpleNumber.Api\\SimpleNumber.Api.csproj",
         "projectName": "SimpleNumber.Api",
-        "projectPath": "c:\\s\\simpleNumber\\SimpleNumber.Api\\SimpleNumber.Api.csproj",
+        "projectPath": "C:\\s\\simpleNumber\\SimpleNumber.Api\\SimpleNumber.Api.csproj",
         "packagesPath": "C:\\Users\\allen\\.nuget\\packages\\",
-        "outputPath": "c:\\s\\simpleNumber\\SimpleNumber.Api\\obj\\",
+        "outputPath": "C:\\s\\simpleNumber\\SimpleNumber.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allen\\AppData\\Roaming\\NuGet\\NuGet.Config"
